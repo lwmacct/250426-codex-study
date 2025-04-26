@@ -17,10 +17,6 @@ includes:
     taskfile: .taskfile/py.yml
     optional: true
 
-  go:
-    taskfile: .taskfile/go.yml
-    optional: true
-
   codex:
     taskfile: .taskfile/codex.yml
     optional: true
